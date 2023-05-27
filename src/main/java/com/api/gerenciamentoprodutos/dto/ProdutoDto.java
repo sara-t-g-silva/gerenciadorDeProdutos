@@ -11,8 +11,6 @@ import lombok.Setter;
 @NoArgsConstructor
 public class ProdutoDto {
 
-
-
     @NotBlank
     private String nome;
     @NotBlank
